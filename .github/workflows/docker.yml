@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | #
-            FranHuisa/practica_7.1:latest 
-            ghcr.io/FranHuisa/practica_7.1:latest 
+            franhuisa/practica_7.1:latest 
+            ghcr.io/franhuisa/practica_7.1:latest 
